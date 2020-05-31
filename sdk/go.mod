@@ -14,7 +14,7 @@ require (
 	github.com/hashicorp/errwrap v1.0.0
 	github.com/hashicorp/go-hclog v0.12.0
 	github.com/hashicorp/go-immutable-radix v1.0.0
-	github.com/hashicorp/go-kms-wrapping v0.0.0-20191129225826-634facde9f88
+	github.com/hashicorp/go-kms-wrapping/entropy v0.1.0
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/hashicorp/go-plugin v1.0.1
 	github.com/hashicorp/go-sockaddr v1.0.2
@@ -24,8 +24,9 @@ require (
 	github.com/hashicorp/hcl v1.0.0
 	github.com/mitchellh/copystructure v1.0.0
 	github.com/mitchellh/go-testing-interface v1.0.0
-	github.com/mitchellh/mapstructure v1.1.2
+	github.com/mitchellh/mapstructure v1.2.2
 	github.com/pierrec/lz4 v2.0.5+incompatible
+	github.com/pkg/errors v0.8.1
 	github.com/ryanuber/go-glob v1.0.0
 	golang.org/x/crypto v0.0.0-20190418165655-df01cb2cc480
 	golang.org/x/sys v0.0.0-20191008105621-543471e840be
